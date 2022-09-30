@@ -93,3 +93,32 @@ cd
 $ eval "$(ssh-agent -s)"
  eval "$(ssh-agent -s)"
 exec ssh-agent zsh
+ls
+ssh-keygen
+cd .ssh
+cd id_rsa.pub.
+cd id_rsa.pub
+ls -a
+cd  id_rsa.pub
+cd  id_rsa.pub.
+cat  id_rsa.pub
+cd
+ls
+mkdir projects
+vi file1
+ls
+git add .
+ls
+git status
+git commit -m "first commit"
+git push origin main
+git branch
+git branch -M main
+git branch
+git push origin main
+git push origin main git@github.com:sari-rajulapati123/practice-repo.git
+git remote origin main git@github.com:sari-rajulapati123/practice-repo.git
+git remote add origin main git@github.com:sari-rajulapati123/practice-repo.git
+git remote add push main git@github.com:sari-rajulapati123/practice-repo.git
+cd
+exit
